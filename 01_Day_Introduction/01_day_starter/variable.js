@@ -18,3 +18,6 @@ const PI = 3.14              // geometrical constant
 let name = 'Asabeneh',     //name of a person
   job = 'teacher',
   live = 'Finland'
+
+let myAge = 25, 
+ yourAge = 30
